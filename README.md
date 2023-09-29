@@ -5,7 +5,7 @@ About Teeworld
 ## Sekilas Tentang
 Teeworlds adalah permainan online berbasis platform yang menawarkan pengalaman bermain dengan grafik 2D yang sederhana namun menyenangkan. Dalam permainan ini, pemain dapat berkompetisi satu sama lain dalam berbagai mode permainan, termasuk Deathmatch dan Capture The Flag.
 
-## Instalasi
+## Instalasi(Rama)
 - **Prasyarat:**
   - VM lokal yang sudah terpasang dan dikonfigurasi dengan sistem operasi Linux.
   - Koneksi internet untuk mengunduh sumber kode dan dependensi.
@@ -38,7 +38,8 @@ Teeworlds adalah permainan online berbasis platform yang menawarkan pengalaman b
      ```
      Ini akan memulai server permainan Teeworlds di VM Anda.
 
-## Cara Pemakaian
+## Cara Pemakaian(farhan)
+
 - **Tampilan Aplikasi Web:**
   Teeworlds adalah permainan berbasis grafik 2D dengan tampilan yang sederhana dan mudah dimengerti.
 
@@ -47,7 +48,7 @@ Teeworlds adalah permainan online berbasis platform yang menawarkan pengalaman b
   - Membuat server permainan sendiri dengan pengaturan yang disesuaikan.
   - Bergabung dengan server permainan yang sudah ada.
 
-## Pembahasan
+## Pembahasan(khalil)
 - **Pendapat Anda tentang Aplikasi Web Ini:**
   Teeworlds adalah permainan yang menyenangkan dengan grafik yang sederhana namun adiktif. Ini memungkinkan pemain untuk bersaing dalam berbagai mode permainan dan juga memberikan fleksibilitas untuk membuat server permainan sendiri.
 
@@ -60,7 +61,7 @@ Teeworlds adalah permainan online berbasis platform yang menawarkan pengalaman b
   - Grafik yang sederhana mungkin tidak menarik bagi beberapa pemain yang mencari grafik yang lebih canggih.
   - Dalam beberapa situasi, masalah jaringan dapat memengaruhi pengalaman bermain.
 
-## Perbandingan dengan Aplikasi Web Lain yang Sejenis
+## Perbandingan dengan Aplikasi Web Lain yang Sejenis (khalid)
 Teeworlds dapat dibandingkan dengan permainan serupa berbasis platform, seperti "Soldat" atau "OpenRA," yang juga menawarkan pengalaman bermain berbasis aksi dengan grafik yang sederhana. Namun, Teeworlds menonjol karena mode permainan yang beragam dan kemampuan untuk membuat server permainan pribadi.
 
 ## Referensi
